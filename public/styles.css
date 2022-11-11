@@ -1,0 +1,10 @@
+input{
+padding:10px;
+border:1px solid gray;
+}
+
+button{
+    padding:8px;
+    border:1px solid gray;
+    background:tomato;
+}
